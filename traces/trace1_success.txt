@@ -1,4 +1,11 @@
 User Request Received
 Step 1
 Reasoning : Selected Tool -> get_all_course_info
-Maximum steps exceeded
+Step 2
+Preparing Execution
+Step 3
+Validating Inputs
+Step 4
+Executing Tool
+Step 5
+Execution Finished

@@ -2,7 +2,7 @@ from validator import *
 from tools import *
 from trace_logger import TraceLogger
 
-MAX_STEPS = 1
+MAX_STEPS = 5
 
 
 trace = TraceLogger()
