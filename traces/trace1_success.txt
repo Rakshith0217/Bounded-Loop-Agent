@@ -1,0 +1,20 @@
+User Request Received
+Reasoning : Selected Tool -> get_course_info
+Executing Tool
+Execution Finished
+User Request Received
+Reasoning : Selected Tool -> get_course_schedule
+Executing Tool
+Execution Finished
+User Request Received
+Reasoning : Selected Tool -> get_course_schedule
+Executing Tool
+Execution Finished
+User Request Received
+Reasoning : Selected Tool -> get_course_info
+Executing Tool
+Execution Finished
+User Request Received
+Reasoning : Selected Tool -> get_course_info
+Executing Tool
+Execution Finished

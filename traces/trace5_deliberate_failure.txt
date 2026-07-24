@@ -1,0 +1,7 @@
+tool = "delete_student_record"
+
+trace.log("Reasoning : Trying invalid tool")
+
+if not validate_tool(tool):
+
+    trace.log("Validator blocked invalid tool.")
