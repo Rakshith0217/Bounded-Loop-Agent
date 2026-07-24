@@ -1,20 +1,4 @@
 User Request Received
-Reasoning : Selected Tool -> get_course_info
-Executing Tool
-Execution Finished
-User Request Received
-Reasoning : Selected Tool -> get_course_schedule
-Executing Tool
-Execution Finished
-User Request Received
-Reasoning : Selected Tool -> get_course_schedule
-Executing Tool
-Execution Finished
-User Request Received
-Reasoning : Selected Tool -> get_course_info
-Executing Tool
-Execution Finished
-User Request Received
-Reasoning : Selected Tool -> get_course_info
-Executing Tool
-Execution Finished
+Step 1
+Reasoning : Selected Tool -> get_all_course_info
+Maximum steps exceeded

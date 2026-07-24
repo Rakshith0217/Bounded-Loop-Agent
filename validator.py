@@ -1,11 +1,14 @@
 ALLOWED_TOOLS = [
     "get_course_info",
-    "get_course_schedule"
+    "get_course_schedule",
+    "get_all_course_info"
 ]
 
 ALLOWED_QUESTIONS = [
     "course_info",
-    "schedule"
+    "schedule",
+    "all_course_info",
+    "all_courses"
 ]
 
 
